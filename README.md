@@ -2,11 +2,11 @@
 
 Este es un portafolio creado con HTML, CSS Y JavaScript 
 
-##Auto - 
+##Autor(a) - 
 **Tatiana Cabal**
 
 * [LinkedIn] (https://www.linkedin.com/in/ingtatiana/)
-* [Porfolio web] (http://127.0.0.7:5500/index.html)
+* [Portafolio web] (http://127.0.0.7:5500/index.html)
 
 ## Ver ejemplos en vivo
 - [ENLACEGITHUBPAGE] (ENLACEGITHUBPAGES)
